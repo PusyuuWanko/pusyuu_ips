@@ -1,0 +1,9 @@
+# 投稿データは公開しない
+storage/
+*.jsonl
+*.db
+*.lock
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
